@@ -1,8 +1,15 @@
-# PhotoFitter
+<p align="center">
+    <a href="https://mianfg.me"><img src="https://mianfg.me/static/img/logos/photofitter.png" alt="PhotoFitter" width="300px"></a>
+</p>
+
+<h1 align="center"><p align="center">PhotoFitter</h1></h1>
+<p align="center" id="badges">
+    <a href="https://github.com/mianfg/photofitter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mianfg/photofitter" alt="License"></a> <a href="#"><img src="https://img.shields.io/github/languages/code-size/mianfg/photofitter" alt="Code size"></a> <a href="https://github.com/mianfg/photofitter/commits"><img src="https://img.shields.io/github/last-commit/mianfg/photofitter" alt="Last commit"></a> <a href="#"><img src="https://img.shields.io/badge/status-production-green" alt="More info"></a> <a href="https://go.mianfg.me/photofitter"><img src="https://img.shields.io/badge/-more%20info-orange" alt="More info"></a>
+</p>
+
+> Created by **Miguel Ángel Fernández Gutiérrez** (<https://mianfg.me/>)
 
 A CLI app to fit your photos into canvases for printing.
-
-> More information in [go.mianfg.me/photofitter](https://go.mianfg.me/photofitter).
 
 ## Installation
 
