@@ -37,7 +37,7 @@ $ photofitter -h
 You will get the full list of commands, as so:
 
 ```
-usage: __main__.py [-h] [-V] [-d DIMENSIONS] [-s SUBDIVISIONS] [-p PIXELS]
+usage: photofitter [-h] [-V] [-d DIMENSIONS] [-s SUBDIVISIONS] [-p PIXELS]
                    [-f FOLDER] [-l] [-B BACKGROUND_COLOR] [-L LINE_COLOR]
                    [-T LINE_THICKNESS] [-R] [-o OUTPUT] [-n NAME]
                    [-t STARTFROM] [-r REGEX] [-P]
