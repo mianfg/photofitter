@@ -13,7 +13,7 @@ You can install PhotoFitter using `pip` or manually, if you prefer.
 Simply request `pip` to install `photofitter`.
 
 ```bash
-  $ pip install photofitter
+$ pip install photofitter
 ```
 
 ### Manual
@@ -21,9 +21,9 @@ Simply request `pip` to install `photofitter`.
 Clone PhotoFitter's repo and run the code.
 
 ```bash
-  $ git clone https://github.com/mianfg/photofitter
-  $ cd photofitter
-  $ python setup.py install
+$ git clone https://github.com/mianfg/photofitter
+$ cd photofitter
+$ python setup.py install
 ```
 
 ## Usage
